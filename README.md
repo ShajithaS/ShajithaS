@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Shajitha! 
-<div id="header" align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="400"/>
-</div>
+</p>
+---
 - 🚀 Pre-Final Year CSE Student
 - 💻 Passionate about coding & problem-solving
 - 📌 Exploring DSA & Web Development 
